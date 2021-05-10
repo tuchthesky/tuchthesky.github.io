@@ -1,0 +1,100 @@
+
+	 .brd{
+    
+     /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 10px double black;
+    margin-right: 20px; 
+    margin: 30px;
+    font-family: 'DotGothic16', sans-serif;
+	 }
+	 
+	
+	 }
+	 .body{ 
+    
+	  }
+	  .wg{
+	background:#9370DB; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	  .wg:hover{
+	border: 4px double black;
+	background: #EE82EE;
+    padding: 13px;
+	 }
+	  
+	  .cp{
+
+    background-image: url('https://i.pinimg.com/564x/04/bf/f3/04bff3afbf826544402eae9071d19931.jpg');
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	  .cp:hover{
+	border: 4px double black;
+    padding: 13px;
+	 }
+	   
+
+
+	 .fy{
+    background: #9370DB;  /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	   .fy:hover{
+    border: 4px double black;
+	background: #8A2BE2;
+    padding: 13px;
+	   }
+	  .nw{
+    background: #9400D3; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	.nw:hover{
+    border: 4px double black;
+	background: #9400D3;
+    padding: 13px;} 
+	  .nm{
+    background: #9932CC; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	  .nm:hover{
+    border: 4px double black;
+	background: #8A2BE2;
+    padding: 13px;} 
+	  .py{
+    background: #9400D3; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	  .py:hover{
+    border: 4px double black;
+	background: #9370DB;
+    padding: 13px;} 
+	  .nr{ 
+    background:#9370DB ; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+    border: 13px double black;
+	  }
+	  .nr:hover{
+    border: 4px double black;
+	background: #BA55D3;
+    padding: 13px;}
+body{
+	background-image: url('https://i.pinimg.com/564x/a9/3f/6e/a93f6e77feb6edda3c8ebb6e8cb62982.jpg');
+	margin-left: 70px;
+	font-size: 10px;
+	font-family: 'DotGothic16', sans-serif;
+}
+
+.header{ 
+
+margin: 40px;
+padding: 10px;
+background-image: url('https://i.pinimg.com/474x/14/e1/28/14e1285d86ba10a3a88c3c44dd44ed57.jpg');
+font-family: 'DotGothic16', sans-serif;
+}
